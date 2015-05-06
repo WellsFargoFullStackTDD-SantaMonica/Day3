@@ -1,0 +1,12 @@
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\bin\Debug\AdventureWorksDAL.dll
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\bin\Debug\AdventureWorksDAL.pdb
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.dll
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.pdb
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\bin\Debug\AdventureWorksDAL.dll.config
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\bin\Debug\EntityFramework.dll
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\bin\Debug\EntityFramework.xml
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.Migrations.Initial.resources
+c:\users\geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.csproj.GenerateResource.Cache
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL\obj\Debug\AdventureWorksDAL.csprojResolveAssemblyReference.cache

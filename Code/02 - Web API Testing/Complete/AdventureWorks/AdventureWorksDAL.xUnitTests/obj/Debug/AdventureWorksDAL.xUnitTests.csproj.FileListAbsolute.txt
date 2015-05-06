@@ -1,0 +1,38 @@
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.abstractions.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\AdventureWorksDAL.xUnitTests.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\AdventureWorksDAL.xUnitTests.pdb
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.assert.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.core.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.assert.pdb
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.assert.xml
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.core.pdb
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.core.xml
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\obj\Debug\AdventureWorksDAL.xUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\obj\Debug\AdventureWorksDAL.xUnitTests.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\obj\Debug\AdventureWorksDAL.xUnitTests.pdb
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\AdventureWorksDAL.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\AdventureWorksDAL.pdb
+C:\Users\Geek\documents\visual studio 2013\Projects\AdventureWorks\AdventureWorksDAL.xUnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.abstractions.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\AdventureWorksDAL.xUnitTests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\AdventureWorksDAL.xUnitTests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\AdventureWorksDAL.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.assert.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.core.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\AdventureWorksDAL.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.assert.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.assert.xml
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.core.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\xunit.core.xml
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\obj\Debug\AdventureWorksDAL.xUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\obj\Debug\AdventureWorksDAL.xUnitTests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks - Web Api\AdventureWorksDAL.xUnitTests\obj\Debug\AdventureWorksDAL.xUnitTests.pdb
